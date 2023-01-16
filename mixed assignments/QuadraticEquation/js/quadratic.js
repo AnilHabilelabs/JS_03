@@ -7,9 +7,9 @@ function solve(a, b, c) {
 }
 
 function userInput(){
-    var a = Number(prompt("enter value of a"));
-    var b = Number(prompt("enter value of b"));
-    var c = Number(prompt("enter value of c"));
+    let a = Number(prompt("enter value of a"));
+    let b = Number(prompt("enter value of b"));
+    let c = Number(prompt("enter value of c"));
     solve(a,b,c)
 }
 userInput();

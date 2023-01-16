@@ -1,6 +1,6 @@
 // 15.	Find out all the numbers between 1 and 500, which are divisible 13.
 
-n=13
+let n=13;
 
 // first approach without checking conditions;
 // function oneToFiveHundred(n){

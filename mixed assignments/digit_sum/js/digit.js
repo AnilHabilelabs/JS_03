@@ -1,5 +1,5 @@
 // 4. 	Compute the sum of the digits of an integer.
-var a = -154;
+let a = -154;
 function sumOfDigit(a) {
   a = Math.abs(a);
   sum = 0;

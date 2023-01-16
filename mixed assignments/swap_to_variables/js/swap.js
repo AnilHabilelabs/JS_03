@@ -1,6 +1,6 @@
 // 3. 	Swap two variables.
-var a = 5;
-var b = 7;
+let a = 5;
+let b = 7;
 function swap(a, b) {
   console.log("Before: " + "a=" + a, "b=" + b);
   a = a + b;

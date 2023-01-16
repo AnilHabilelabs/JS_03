@@ -11,7 +11,7 @@
 // --------------------------------------------------------------------
 
 function getNetPay(basicPay) {
-  var ta;
+  let ta;
   let da;
   let hra;
   let pf;
